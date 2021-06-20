@@ -20,3 +20,5 @@ if (Number(nota) == nota) {
         }
     }
 }
+
+//SACANDO NOTAS
