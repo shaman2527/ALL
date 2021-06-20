@@ -96,4 +96,4 @@ do {
     //MIENTRAS NO SE PULSE CANCELAR VUELVE ARRIBA
 } while (numero != undefined);
 
-//PRACTICANDO
+//PRACTICANDO//
